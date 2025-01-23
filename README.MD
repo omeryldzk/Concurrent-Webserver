@@ -1,4 +1,5 @@
 # Concurrent Webserver ⭐
+This project was part of the course BLG312E : Operating Systems offered at ITU in 2023-24 by Prof. Kemal Bıçakçı.
 
 A multi-threaded HTTP server implementing First in Fist out (FIFO), Recent File First (RFF) and Shortest File Name First (SFNF) scheduling policies on the server. 
 
